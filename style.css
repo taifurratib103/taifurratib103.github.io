@@ -1,0 +1,38 @@
+
+body{
+    font-family: 'Poiret One', cursive; 
+    background-color: darkslategrey;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+
+h1{
+
+    font-size: 180%;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 8px solid #b82d3b;
+    padding: 10px;
+    margin: 0 auto;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin-left: 495px;
+    margin-top: 20px;
+}
+ul li{
+    margin: 10px 0;
+}
+ul li a{
+
+    text-decoration: none;
+    font-size: 150%;
+    color: #181541;
+}
+.Ex{
+    margin-left: 510px;
+    margin-top: 20px; 
+}
+
